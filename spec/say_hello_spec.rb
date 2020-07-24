@@ -1,7 +1,7 @@
 require_relative './spec_helper'
 
 def "say_hello"
-  
+
 end
 
   it 'accepts an argument of a name and prints out Hello with that Name' do
